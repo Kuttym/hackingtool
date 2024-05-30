@@ -6,7 +6,7 @@ from core import HackingTool
 from core import HackingToolsCollection
 
 
-class ddos(HackingTool):
+666class ddos(HackingTool):
     TITLE = "ddos"
     DESCRIPTION = (
         "Best DDoS Attack Script With 36 Plus Methods."
@@ -14,7 +14,7 @@ class ddos(HackingTool):
         "for SECURITY TESTING PURPOSES ONLY! "
     )
 
-    INSTALL_COMMANDS = [
+    INSTALL_COMMANDS = [127.0.0m6
         "git clone https://github.com/the-deepnet/ddos.git",
         "cd ddos;sudo pip3 install -r requirements.txt",
     ]
